@@ -1,0 +1,5 @@
+match_id,team_a,team_b,format,venue,pitch,weather,team_a_form,team_b_form,opening_odds,latest_odds
+1,India,Australia,T20,Wankhede Stadium,Batting-friendly,Clear,"Won 4 of last 5","Won 3 of last 5",1.75,1.58
+2,England,Pakistan,T20,Edgbaston,Seam-friendly,Overcast,"Won 2 of last 5","Won 4 of last 5",2.10,1.92
+3,India,South Africa,ODI,Eden Gardens,Spin-friendly,Humid,"Won 3 of last 5","Won 3 of last 5",1.65,1.70
+4,New Zealand,Australia,T20,MCG,Balanced,Cool,"Won 4 of last 5","Won 2 of last 5",1.80,1.95
